@@ -128,4 +128,69 @@ footer {
     padding: 20px;
     margin:20px 0px 0px 0px;
 }
+ol li{
+     
+    padding: 10px;
+ }
+ .imgreceita{
+     width: 1000px;
+ }
+ table{
+     text-align: center;    
+     border:1px solid black;
+     width:fit-content;
+     
+ }
+ tr{
+    border:1px solid black;
+    text-align: center; 
+    width:fit-content;
+    padding:5px;
+    
+}
+td{
+    border:1px solid black;
+    text-align: center;
+    width:fit-content; 
+    padding:5px;
+}
+th{
+    text-transform: uppercase;
+    font-weight: bold;
+    border:1px solid black;
+    text-align: center;
+    width:fit-content;
+    padding:5px;
+}
+#receita_container{
+    display:flex;
+    justify-content:center;
+    }
+#container_receitas{
+    width:1200px;
+    
+    
+}
 
+.title3 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 20px 0px 20px 0px;
+    color:coral;
+    text-align: center;
+}
+.title4 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 20px 0px 00px 0px;
+    color:rgb(0, 0, 0);
+    
+}
+.centerimage{
+display:flex;
+justify-content: center;
+}

@@ -1,4 +1,4 @@
- ol li{
+ol li{
      
     padding: 10px;
  }
@@ -32,15 +32,16 @@ th{
     width:fit-content;
     padding:5px;
 }
+main{
+    display:flex;
+    justify-content:center;
+    }
 #container_receitas{
     width:1200px;
     
     
 }
-main{
-display:flex;
-justify-content:center;
-}
+
 .title3 {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
